@@ -1,0 +1,19 @@
+When generating advanced engineering I kept running into weigh_class balanced features that would generate almost infinitely. 
+
+Ran into integration with MLP due to advanced engineering temporal features. MLP doesn't report because it relies on raw data which due to the process of integration is unavailable when ENS is run.
+
+
+
+Copy-Paste Message print out removed for the sake of spam.[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+
+
+- gs = GridSearchCV(
+        LGBMClassifier(random_state=42, verbose=-1),
+        param_grid, cv=tscv, verbose=0, n_jobs=-1
+)
+
+07/25/2025- Issue with displaying MLP & XGB
+
++Added XGB report features.
+-Removing MLP for the cause the it's no longer effective with advanced engineering due to its sensitive nature.
+

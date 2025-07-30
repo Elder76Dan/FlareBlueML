@@ -1,0 +1,6 @@
+To Do: 
+
+-Integrate XGBoost
+-Integrate Minor Anomaly Detection
+-Modify Source code for errors or comments needed. 
+-

@@ -1,0 +1,18 @@
+python flareml_train.py 
+python flareml_train.py -a lgbm
+
+python flareml_test.py 
+
+
+
+
+
+ 
+bash
+Copy code
+python flareml_train.py -a xgb -m my_model_id
+Or train all 5 models in ENS (RF, MLP, ELM, LGBM, XGB) one-by-one using:
+
+bash
+Copy code
+python flareml_train.py -a ens -m my_model_id

@@ -1,0 +1,5 @@
+resources: 
+
+https://www.datacamp.com/tutorial/multilayer-perceptrons-in-machine-learning
+
+https://xgboost.readthedocs.io/en/stable/tutorials/rf.html
